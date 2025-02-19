@@ -18,7 +18,7 @@ public class Curso {
         } else {
                 System.out.println("Valores nao aceitos");
         }
-        //System.out.printf("MEDIA = %.5f\n" , media);
+        
         sc.close();
     }
 }
